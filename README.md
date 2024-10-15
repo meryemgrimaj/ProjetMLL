@@ -9,3 +9,13 @@ D’après les premiers résultats de cette étude, les méthodes de Deep Learni
 
 Mots-clés : Végétal, Mildiou, Agriculture, Imagerie, Prédiction 
 
+
+
+<h1 style="color:red"> À lire avant d'explorer le repository </h1>
+Ce repository comprend plusieurs documents : </br>
+<ul>
+  <li>ML_Mildiou_diapo.pdf -> Support de présentation (non complet)</li>
+  <li>ProjetML_RENNES (2).ipynb -> notebook google collab sur les modèles de forêt aléatoire et de svn </li>
+  <li>Projet_ML_knn_rl.ipynb -> notebook google collab sur les modèles (knn et régression logistique)</li>
+</ul>
+
