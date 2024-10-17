@@ -11,11 +11,11 @@ Mots-clés : Végétal, Mildiou, Agriculture, Imagerie, Prédiction
 
 
 
-<h1 style="color:red"> À lire avant d'explorer le repository </h1>
-Ce repository comprend plusieurs documents : </br>
+<h1> Structure du repository </h1>
+Ce repository comprend plusieurs dossiers : </br>
 <ul>
-  <li>ML_Mildiou_diapo.pdf -> Support de présentation (non complet)</li>
-  <li>ProjetML_RENNES (2).ipynb -> notebook google collab sur les modèles de forêt aléatoire et de svn </li>
-  <li>Projet_ML_knn_rl.ipynb -> notebook google collab sur les modèles (knn et régression logistique)</li>
+  <li>PlantVillage : il s'agit du jeu de données. Ce dossier est présent à titre indicatif. L'importation du jeu de données se fait directement par l'url dans les scripts </li>
+  <li>codes : regroupe l'ensemble des scripts. Ces scripts sont indépendants et présentent des méthodes de Machine Learning différents. </li>
+  <li>images : regroupe l'ensemble des images issues des scripts : Ce dossier est présent à titre indicatif, les images étant affichées dans les scripts.</li>
 </ul>
 
