@@ -21,3 +21,5 @@ Ce repository comprend plusieurs dossiers : </br>
 
 Le repository contient également d'autres documents comme advanced-potato-disease-detection-efficientnetb3.ipynb utilisé comme référence pour la construction des codes, une présentation générale sous format pdf de l'ensemble des méthodes et résultats et une présentation officielle format pdf pour la conférence.
 
+P.S. Il est possible que l'une des méthodes présentes dans la présentation officielle soit retirée avant la conférence par manque de temps à l'oral.
+
