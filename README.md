@@ -14,8 +14,10 @@ Mots-clés : Végétal, Mildiou, Agriculture, Imagerie, Prédiction
 <h1> Structure du repository </h1>
 Ce repository comprend plusieurs dossiers : </br>
 <ul>
+  <li>codes : regroupe l'ensemble des scripts. Ces scripts sont indépendants et présentent des méthodes de Machine Learning différents. Il est conseillé de lancer ces scripts depuis google colab.</li>
   <li>PlantVillage : il s'agit du jeu de données. Ce dossier est présent à titre indicatif. L'importation du jeu de données se fait directement par l'url dans les scripts </li>
-  <li>codes : regroupe l'ensemble des scripts. Ces scripts sont indépendants et présentent des méthodes de Machine Learning différents. </li>
   <li>images : regroupe l'ensemble des images issues des scripts : Ce dossier est présent à titre indicatif, les images étant affichées dans les scripts.</li>
 </ul>
+
+Le repository contient également d'autres documents comme advanced-potato-disease-detection-efficientnetb3.ipynb utilisé comme référence pour la construction des codes, une présentation générale sous format pdf de l'ensemble des méthodes et résultats et une présentation officielle format pdf pour la conférence.
 
